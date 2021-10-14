@@ -45,7 +45,7 @@ https://toneoz.com/blog/download-fonts/
 * 注音字型Github下載連結:
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-zhuyin/releases)
 
-* 拼音字型Github下載連結：
+* 拼音字型Github下載連結:
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-kai/releases)
 
 ## Licence 免費商用授權
