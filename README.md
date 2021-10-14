@@ -7,16 +7,27 @@
 
 ![20211014-1](https://user-images.githubusercontent.com/14179988/137228121-98eab5c3-53f5-4dfd-88c3-ee3b9e5e3681.jpg)
 
-## 注音庫楷－繁
-![20211014-2](https://user-images.githubusercontent.com/14179988/137228148-f59a1d55-1c12-48f8-acb9-3a71838a6038.jpg)
-## 大注音庫楷－繁
-![20211014-3](https://user-images.githubusercontent.com/14179988/137228153-ce45388e-f304-44ff-8c2d-10e976422142.jpg)
+# 注音字型
 
-## 注音鼎楷－简
+* 注音庫楷－繁
+![20211014-2](https://user-images.githubusercontent.com/14179988/137228148-f59a1d55-1c12-48f8-acb9-3a71838a6038.jpg)
+* 大注音庫楷－繁
+![20211014-3](https://user-images.githubusercontent.com/14179988/137228153-ce45388e-f304-44ff-8c2d-10e976422142.jpg)
+* 注音鼎楷－简
 ![20211014-4](https://user-images.githubusercontent.com/14179988/137228162-05998842-2ab9-41d7-93d9-9cf0217f9e7d.jpg)
-## 大注音鼎楷－简
+* 大注音鼎楷－简
 ![20211014-5](https://user-images.githubusercontent.com/14179988/137228168-34944d88-3262-475c-9ca8-40ad20aeaa6e.jpg)
 
+# 拼音字型
+
+* 拼音庫楷－繁
+![20210930-4](https://user-images.githubusercontent.com/14179988/137229887-0e652974-2bfb-4ba2-a751-1d146cafa034.jpg)
+* 大拼音庫楷－繁
+![20210930-5](https://user-images.githubusercontent.com/14179988/137229892-37d11b5f-60c7-4c2e-8b5c-2611e5522ee1.jpg)
+* 拼音鼎楷－简
+![20210930-2](https://user-images.githubusercontent.com/14179988/137229905-ea9107d9-5adc-4792-aff7-fb7bff543876.jpg)
+* 大拼音鼎楷－简
+![20210930-3](https://user-images.githubusercontent.com/14179988/137229908-c4546bbf-bd65-4f04-a71e-1c8f98cfa243.jpg)
 
 # Download the fonts 字型檔案下載
 * 官網下載連結：
