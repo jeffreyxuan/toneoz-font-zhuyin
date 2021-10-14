@@ -27,3 +27,31 @@ https://toneoz.com/blog/download-fonts/
 
 * 拼音字型Github下載連結：
 [Latest release](https://github.com/jeffreyxuan/toneoz-font-pinyin-kai/releases)
+
+## Licence 免費商用授權
+原始楷體字型來自兩種中文教學時常用的免費商用授權字型：
+
+* 文鼎PL简中楷 - [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+* 全字庫正楷體 - [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+
+注音部分是基於「源流明體注音」，來自But Ko的「[注音IVS字型規格](https://github.com/ButTaiwan/bpmfvs)」，採用 Apache 2.0 免費商用授權。
+拼音及非漢字的部分是基於「[FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee)」以及「[LXGW 霞鶩文楷](https://github.com/lxgw/LxgwWenKai)」，採用 SIL Open Font License 1.1 免費商用授權。
+
+「表意文字變體多音字選擇器」的概念來自But Ko的「[注音IVS字型規格](https://github.com/ButTaiwan/bpmfvs)」。
+
+Free for both commercial and personal usage.
+
+* ToneOZ-Zhuyin-Kai-Traditional
+* ToneOZ-ZhuyinW-Kai-Traditional
+
+These 2 fonts are based on 全字庫, licensed under [《Open Government Data License, version 1.0》](https://data.gov.tw/en/licenses)
+
+* ToneOZ-Zhuyin-Kai-Simplified
+* ToneOZ-ZhuyinW-Kai-Simplified
+
+These 2 fonts are based on 文鼎PL简中楷, licensed under [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
+
+Pinyin and none Chinese characters are based on [FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee), licensed under SIL Open Font License 1.1
+
+Zhuyin are based on 「GenyoMinBopomofo-Regular」by But Ko, licensed under Apache 2.0
+
