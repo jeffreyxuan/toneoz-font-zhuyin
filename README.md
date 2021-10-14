@@ -1,4 +1,4 @@
-# ToneOZ Zhuyin Kai 注音多音字型 庫楷－繁 / 鼎楷－简 ToneOZ 澳聲通
+# Chinese Heteronym TTF Fonts with Zhuyin 注音多音字型 庫楷－繁 / 鼎楷－简 by ToneOZ 澳聲通
 可選多音字的TrueType拼音注音字型，楷體。搭配「免費免安裝」在線選音工具：
 
 * 「IVS選音編輯器 https://toneoz.com/ime 」
