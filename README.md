@@ -36,7 +36,7 @@
 多音字的使用方式是：先在[選音編輯器](https://toneoz.com/ime)打字，此編輯器會在瞬間自動幫你選擇正確注音，也可手動校正。完成後再將整段純文字（已內嵌注音資訊）複製貼上到 Office，能省下大量排版及破音字校正的時間。貼到Office後再將字型選成「澳聲通注音」便可看到正確多音字的注音。
 
 詳細使用說明請參照：
-https://toneoz.com/blog/2021/10/07/kai-font/
+https://toneoz.com/blog/2021/10/14/zhuyinkai/
 
 # Download the fonts 字型檔案下載
 * 官網下載連結：
