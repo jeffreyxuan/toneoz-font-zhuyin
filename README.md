@@ -5,7 +5,7 @@
 
 提供繁簡筆順兩版本字型，拼音注音互通，免費商用授權，滿足中文現場教學需求：
 
-![20211014-1](https://user-images.githubusercontent.com/14179988/137228121-98eab5c3-53f5-4dfd-88c3-ee3b9e5e3681.jpg)
+![20211014-8](https://user-images.githubusercontent.com/14179988/137249222-88814277-43c5-4f90-898a-8b854fcabb71.jpg)
 
 ![20211014-7](https://user-images.githubusercontent.com/14179988/137231594-e1b2ca36-2e96-41c0-bb01-b49ee5835281.jpg)
 
