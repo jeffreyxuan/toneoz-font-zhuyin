@@ -72,7 +72,7 @@ These 2 fonts are based on 全字庫, licensed under [《Open Government Data Li
 
 These 2 fonts are based on 文鼎PL简中楷, licensed under [《ARPHIC PUBLIC LICENSE 1999》](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE)
 
-Pinyin and none Chinese characters are based on [FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee), licensed under SIL Open Font License 1.1
+Pinyin and none Chinese characters glyphs are based on [FONTWORKS Klee One](https://github.com/fontworks-fonts/Klee), licensed under SIL Open Font License 1.1
 
-Zhuyin are based on 「GenyoMinBopomofo-Regular」by But Ko, licensed under Apache 2.0
+Zhuyin glyphs are based on 「GenyoMinBopomofo-Regular」by But Ko, licensed under Apache 2.0
 
