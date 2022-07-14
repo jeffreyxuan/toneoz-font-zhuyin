@@ -313,6 +313,7 @@
 ㄉㄨㄢ	duan1
 ㄉㄨㄢˇ	duan3
 ㄉㄨㄢˋ	duan4
+ㄉㄨㄜˇ	due3
 ㄉㄨㄟ	dui1
 ㄉㄨㄟˇ	dui3
 ㄉㄨㄟˋ	dui4
@@ -930,6 +931,7 @@
 ㄋㄧㄡˇ	niu3
 ㄋㄧㄡˋ	niu4
 ˙ㄋㄧㄡ	niu5
+ㄋㄨㄥ	nong1
 ㄋㄨㄥˊ	nong2
 ㄋㄨㄥˇ	nong3
 ㄋㄨㄥˋ	nong4
