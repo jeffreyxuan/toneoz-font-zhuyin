@@ -533,6 +533,7 @@
 ㄏㄨㄤˇ	huang3
 ㄏㄨㄤˋ	huang4
 ˙ㄏㄨㄤ	huang5
+ㄏㄨㄜˇ	hue3
 ㄏㄨㄟ	hui1
 ㄏㄨㄟˊ	hui2
 ㄏㄨㄟˇ	hui3
@@ -1302,6 +1303,7 @@
 ㄊㄠˇ	tao3
 ㄊㄠˋ	tao4
 ˙ㄊㄠ	tao5
+ㄊㄜ	te1
 ㄊㄜˋ	te4
 ㄊㄥ	teng1
 ㄊㄥˊ	teng2
