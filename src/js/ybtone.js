@@ -1,7 +1,7 @@
 /**
 * 曉聲通注音字典 分析中文文句中「一」「不」，輸出經過變調後的聲調
 * Chinese Yi / Bu tone sandhi parse function
-* by ToneOZ.com Zhuyin Dictionary htts://toneoz.com/ime
+* by ToneOZ.com Zhuyin Dictionary https://toneoz.com/ime
 * License : MIT. Free for persoanl and commercial use.
 * input example : 等(a) 一(b) 下(c)
 * usage example :
